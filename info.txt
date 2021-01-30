@@ -7,3 +7,11 @@ git add .
 git commit -m "initail commit"
 
 git diff info.txt
+
+
+git checkout feature-branch
+
+git pull
+
+git fetch
+
