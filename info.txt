@@ -1,1 +1,9 @@
-Started coding
+git clone https://github.com/dhyanmohandas/design-patterns.git
+
+git status
+
+git add .
+
+git commit -m "initail commit"
+
+git diff info.txt
